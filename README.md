@@ -15,13 +15,13 @@
 <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></img>
 </p>
 
-
+<!--
 <h4>🤝Connect with me</h4>
 <p>
 <a href="http://www.linkedin.com/in/lenosta"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://t.me/lenosta25"><img  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
-
+-->
 <!--
 **lenosta25/lenosta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

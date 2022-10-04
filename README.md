@@ -1,6 +1,7 @@
 <h2> Nice to meet you here ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p>My name is <b>Lena😉</b>. I am a beginner <b>front-end developer</b>.</p>
-</br>
+
+
 <h4>💻Tech Stack:</h4>
 <p>
 <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26"></img>
@@ -13,7 +14,8 @@
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma"></img>
 <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop"></img>
 </p>
-</br>
+
+
 <h4>🤝Connect with me</h4>
 <p>
 <a href="http://www.linkedin.com/in/lenosta"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
